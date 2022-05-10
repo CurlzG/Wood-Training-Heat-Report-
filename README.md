@@ -54,8 +54,12 @@ def cleanState(file):
     print("Length of Actions -->", len(actions))  # Checking if the Actions Size matches the list of notes size
     return actions
 ````
-An example of this would be </br>
-Original Note </br>
-Both outside rftb ,Date,1/3/2022,Time,11:45:0, </br>
-New Note Output </br>
-11:45:00, Both outside rftb </br>
+#### An example of this would be 
+#### Original Note 
+````
+Both outside rftb ,Date,1/3/2022,Time,11:45:0, 
+````
+#### New Note Output 
+````
+11:45:00, Both outside rftb 
+````
